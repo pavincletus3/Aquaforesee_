@@ -54,6 +54,12 @@ class SmartDataGenerator:
                 "temp_sensitivity": 0.9,
                 "description": "Rural hilly region with seasonal variations"
             },
+            "district_6": {  # Southern Peninsula - Tropical
+                "base_demand_factor": 1.1,
+                "rainfall_sensitivity": 0.9,
+                "temp_sensitivity": 1.2,
+                "description": "Tropical southern region with monsoon dependency"
+            },
             
         }
     
@@ -346,6 +352,10 @@ class SmartDataGenerator:
             "district_5": [
                 {"name": "Eastern Hills A", "coordinates": [28.5, 79.5]},
                 {"name": "Eastern Hills B", "coordinates": [28.3, 79.7]},
+            ],
+            "district_6": [
+                {"name": "Southern Peninsula A", "coordinates": [12.5, 78.5]},
+                {"name": "Southern Peninsula B", "coordinates": [12.3, 78.7]},
             ]
         }
         

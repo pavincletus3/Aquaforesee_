@@ -81,6 +81,13 @@ MOCK_REGIONS = [
         "population": 95000,
         "area_km2": 1100.7,
         "geometry": None
+    },
+    {
+        "id": "district_6",
+        "name": "Southern Peninsula",
+        "population": 220000,
+        "area_km2": 1350.4,
+        "geometry": None
     }
 ]
 

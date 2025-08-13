@@ -74,6 +74,13 @@ def seed_data(db):
             "population": 95000,
             "area_km2": 1100.7,
             "geometry": "POLYGON((79.0 28.0, 80.0 28.0, 80.0 29.0, 79.0 29.0, 79.0 28.0))"
+        },
+        {
+            "id": "district_6",
+            "name": "Southern Peninsula",
+            "population": 220000,
+            "area_km2": 1350.4,
+            "geometry": "POLYGON((78.0 12.0, 79.0 12.0, 79.0 13.0, 78.0 13.0, 78.0 12.0))"
         }
     ]
     
