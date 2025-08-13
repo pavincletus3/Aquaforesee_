@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "district_1",
+        "name": "Northern Plains",
+        "population": 250000,
+        "area_km2": 1200.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.0, 28.0],
+            [78.0, 28.0],
+            [78.0, 29.0],
+            [77.0, 29.0],
+            [77.0, 28.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "district_2",
+        "name": "Coastal Valley",
+        "population": 180000,
+        "area_km2": 890.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.0, 27.0],
+            [77.0, 27.0],
+            [77.0, 28.0],
+            [76.0, 28.0],
+            [76.0, 27.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "district_3",
+        "name": "Mountain Ridge",
+        "population": 120000,
+        "area_km2": 1500.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.0, 29.0],
+            [79.0, 29.0],
+            [79.0, 30.0],
+            [78.0, 30.0],
+            [78.0, 29.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "district_4",
+        "name": "Central Plateau",
+        "population": 300000,
+        "area_km2": 980.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.0, 27.0],
+            [78.0, 27.0],
+            [78.0, 28.0],
+            [77.0, 28.0],
+            [77.0, 27.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "district_5",
+        "name": "Eastern Hills",
+        "population": 95000,
+        "area_km2": 1100.7
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [79.0, 28.0],
+            [80.0, 28.0],
+            [80.0, 29.0],
+            [79.0, 29.0],
+            [79.0, 28.0]
+          ]
+        ]
+      }
+    }
+  ]
+}
